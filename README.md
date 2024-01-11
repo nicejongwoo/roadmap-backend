@@ -134,11 +134,9 @@
 
 ## 책 추천
 
-- [ ]  **[스프링 부트와 AWS로 혼자 구현하는 웹 서비스** 
-**인텔리제이, JPA, JUnit 테스트, 그레이들, 소셜 로그인, AWS 인프라로 무중단 배포까지**](https://www.yes24.com/Product/Goods/83849117)
-- [ ]  [자바의 신](https://www.yes24.com/Product/Goods/42643850)
-- [ ]  **[코드로 배우는 스프링 웹 프로젝트** 
-**현업 개발을 위한 단계별 실습서** [ 개정판 ]](https://www.yes24.com/Product/Goods/64340061)
+- [ ]  [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 인텔리제이, JPA, JUnit 테스트, 그레이들, 소셜 로그인, AWS 인프라로 무중단 배포까지](https://www.yes24.com/Product/Goods/83849117)
+- [ ]  [**자바의 신](https://www.yes24.com/Product/Goods/42643850)
+- [ ]  [코드로 배우는 스프링 웹 프로젝트 현업 개발을 위한 단계별 실습서 [ 개정판 ]](https://www.yes24.com/Product/Goods/64340061)
 
 # 마무리…
 
