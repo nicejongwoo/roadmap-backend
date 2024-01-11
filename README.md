@@ -11,6 +11,7 @@
 시각적으로 보면서 사람이 조작할 수 있는 다양한 인터페이스를 처리하는 영역
 
 ![Alt text](image.png)
+출처: comic.browserling.com
 
 **퍼블리싱**
 
